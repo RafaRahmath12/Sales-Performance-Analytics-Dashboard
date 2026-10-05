@@ -8,7 +8,9 @@ A data analytics project evaluating retail sales performance, purchasing pattern
 
 This interactive dashboard aggregates transactional and customer data to deliver high-level executive insights and granular operational analytics. By examining customer retention rates, product demand, and demographic spending habits, the report empowers stakeholders to optimize marketing campaigns, target core age groups, and design retention strategies.
 
+## 📊 Dashboard Preview
 
+👉 [View / Download Power BI Dashboard](./Sales%20analytics%20Dashboard.pbix)
 
 ---
 
